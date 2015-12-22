@@ -1,6 +1,7 @@
 ---
 title: Pani ka Puka
 date: 22:33 12/21/2016
+author: Bob H
 taxonomy:
    category: blog
    tag: [journal]
