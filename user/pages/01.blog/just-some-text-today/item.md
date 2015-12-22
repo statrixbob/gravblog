@@ -1,5 +1,5 @@
 ---
-title: Just A Bit Of Text Today
+title: Just A Small Bit Of Text Today
 date: 13:34 06/23/2014
 continue_link: false
 taxonomy:
