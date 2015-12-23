@@ -5,6 +5,7 @@ taxonomy:
     category: blog
     tag: [ocean, civic, fishpond]
 ---
+![He'eia Fishpond](pani_ka_puka.jpg)
 
 Hauling rocks for a good cause.
 
