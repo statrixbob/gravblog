@@ -18,11 +18,8 @@
 </div>
 {% endif %}
 <div class="sidebar-content">
-	<h4>Some Links</h4>
-        <ul>
-        <li><a href="http://flickr.com/mgps-bob/">My Flickr</a></li>
-        <li><a href="http://statrix.com/">Statrix.com</a></li>
-        </ul>
+	<h4>Some Text Widget</h4>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
 </div>
 {% if config.plugins.taxonomylist.enabled %}
 <div class="sidebar-content">
