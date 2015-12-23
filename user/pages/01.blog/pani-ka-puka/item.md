@@ -22,3 +22,11 @@ The day started early with my buddy Andy picking up myself and a friend from wor
 
 On arrival we descended a steep driveway the headquarters were quite a few folks were being instructed and then sent off to 'line.'
 
+![Start of the Line](IMG_3260.jpg)
+
+It had been wet the night before it would seem and, as we walked out on on the path, we had to avoid mud puddles stretching across the path. We all hoped we'd get a dry section of the levee.
+
+Thankfully we did.
+
+Having noted that we were early, I'll also note that because of this, we had some time to wait until the rocks started following. We amused ourselves with chat and pictures.
+
