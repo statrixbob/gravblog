@@ -2,16 +2,9 @@
 title: 'Pani Ka Puka'
 published: true
 date: '21-12-2015 23:42'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - ocean
-        - civic
-        - fishpond
 process:
     markdown: true
-child_type: default
+    twig: false
 routable: true
 cache_enable: true
 visible: true
@@ -19,6 +12,14 @@ header_image: '1'
 summary:
     enabled: '1'
     format: short
+child_type: default
+taxonomy:
+    tag:
+        - ocean
+        - civic
+        - fishpond
+    category:
+        - blog
 ---
 
 ---
@@ -37,7 +38,7 @@ The day started early with my buddy Andy picking up myself and a friend from wor
 
 On arrival we descended a steep driveway the headquarters were quite a few folks were being instructed and then sent off to 'line.'
 
-![On the Line](02.jpg)
+![On the Line](02.jpg "Heeia Fishpond")
 
 It had been wet the night before it would seem and, as we walked out on on the path, we had to avoid mud puddles stretching across the path. We all hoped we'd get a dry section of the levee.
 
@@ -49,3 +50,5 @@ And then the rocks started moving. A few slow test buckets at first, and then we
 
 Some buckets were light, some buckets were not. Some of the most unlikely folks on the line did the best. A young lady next to me was indefatigueable; some strong young men needed breaks. I did okay. All the cycling has given me pretty good stamina so I didn't really tire and once I learned the mechanics of taking and passing a bucket it really didn't take a huge effort. The trick is, of course, to let inertia do the work.
 
+
+![My Part of the Line](03.jpg "My part of the line")
