@@ -52,3 +52,7 @@ Some buckets were light, some buckets were not. Some of the most unlikely folks 
 
 
 ![My Part of the Line](03.jpg "My part of the line")
+
+Of course other folks were out and about and not helping with the rocks...
+
+![Canoe on K-Bay](04.jpg "Canoe on K-Bay")
