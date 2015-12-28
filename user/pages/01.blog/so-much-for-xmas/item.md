@@ -18,7 +18,7 @@ taxonomy:
 
 Another Christmas. And yes, it was a good one. My dad was in town and that's a bonus.
 
-![Dad and me this Xmas](me_and_dad_xmas_2015.jpg)
+![Dad and me this Xmas](me_and_dad_xmas_2015.jpg?lightbox=1024&cropResize=400,400)
 
 He looked great and was having a wonderful time. We all did.
 

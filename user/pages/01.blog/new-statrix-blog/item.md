@@ -8,7 +8,6 @@ taxonomy:
         - tech
     category:
         - blog
-
 ---
 
 ---
