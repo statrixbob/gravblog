@@ -1,6 +1,6 @@
 ---
-title: Statrix 
-blog_url: blog
+title: Home 
+blog_url: gravblog 
 body_classes: header-image fullwidth
 
 sitemap:

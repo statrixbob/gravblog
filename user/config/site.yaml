@@ -1,7 +1,7 @@
-title: Grav
+title: Statrix
 author:
-  name: Joe Bloggs
-  email: 'joe@test.com'
+  name: Bob Harrison	 
+  email: 'admin@statrix.org'
 blog:
   route: ''
 metadata:
