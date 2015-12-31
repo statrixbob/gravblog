@@ -6,8 +6,6 @@ assets/*
 logs/*
 images/*
 user/data/*
-___git_grabber.php
-___github_log.txt
 
 # OS Generated
 .DS_Store*
