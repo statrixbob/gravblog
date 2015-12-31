@@ -1,6 +1,6 @@
 ---
 title: Home 
-blog_url: gravblog 
+blog_url: blog 
 body_classes: header-image fullwidth
 
 sitemap:
