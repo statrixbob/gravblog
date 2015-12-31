@@ -16,7 +16,7 @@ content:
     pagination: true
 
 feed:
-    description: Sample Blog Description
+    description: Statrix Redux - not much about very little 
     limit: 10
 
 pagination: true
