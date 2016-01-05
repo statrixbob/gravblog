@@ -1,7 +1,7 @@
 ---
-
-
 title: 'My 2015 Bike Miles'
+date: '31-12-2015 18:00'
+published: true
 taxonomy: 
     tag:
         - bicycle
