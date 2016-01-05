@@ -1,5 +1,5 @@
 ---
-title: 'So much for Xmas…shed: true
+title: 'So much for Xmas'
 date: '27-12-2015 23:42'
 published: true
 taxonomy: 
