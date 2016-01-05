@@ -44,6 +44,6 @@ I'd actually been able to get everything running just as I wanted it when I star
 
 I also decided I had to use HTTPS and, preferring not to pay, am using [Lets Encrypt](http://letsencrypt.org). It's [Linux Foundation ](https://collabprojects.linuxfoundation.org) Collaborative Project which is great. And, sure enough, it works, it's free, and really, when you boil it down, it's easy.
 
-So here I am again. This time I think I'll be able to stay up and running for a while. Check out the tech sites I'm using and I think you'll be impressed - I am.
+So here I am again. This time I think I'll be able to stay up and running for a while. Check out the tech sites I'm using and I think you'll be impressed - I am. I'm sure I'll find something else to play with soon - have some ideas already in fact and hopefully I'll remember to post them.
 
 Aloha!
