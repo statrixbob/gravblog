@@ -3,7 +3,7 @@ date_default_timezone_set('Pacific/Honolulu');
 ignore_user_abort(true);
 set_time_limit(0);
  
-$repo          = '~/apps/gravblog/public';
+$repo          = '~/www/html';
 $branch        = 'master';
 $output        = array();
  
