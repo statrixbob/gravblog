@@ -1,7 +1,7 @@
 ---
 title: 'Setting Up Statrix On Grav'
 published: true
-date: '05-01-2016 10:59'
+date: '05-01-2016 11:36'
 process:
     markdown: true
     twig: false
@@ -22,7 +22,7 @@ taxonomy:
         - software
 ---
 
-**To HTTPS Or Not To HTTPS**
+**To HTTPS Or Not To HTTPS?**
 
 ===
 
