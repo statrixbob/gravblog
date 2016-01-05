@@ -1,7 +1,7 @@
 ---
-
-
 title: 'New Statrix Blog'
+published: true
+date: '27-12-2015 13:42'
 taxonomy: 
     tag:
         - cms
