@@ -35,4 +35,7 @@ What do I mean? Let's see...
 - I've gotten my weight under control (I even had a weigh-in this morning at work to see what happened over the holidays - for the chance to win $1000).
 - I ride my bike a lot and plan on riding a lot more.
 
+
 There's a lot more I'm grateful for today and everyday, birthday or not, but I'll keep it simple today. 
+
+And tomorrow...hopefully!
