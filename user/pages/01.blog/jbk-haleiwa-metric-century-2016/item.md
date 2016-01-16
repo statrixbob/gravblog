@@ -25,9 +25,9 @@ taxonomy:
 
 ===
 
-Today is the last day to register for the (2016 JBK Haleiwa Metric Century)[https://www.hbl.org/hmcregistration/] at an early bird price. The ride is going to be held April 24th this year and it turns out I'm free so...
+Today is the last day to register for the [2016 JBK Haleiwa Metric Century](https://www.hbl.org/hmcregistration/) at an early bird price. The ride is going to be held April 24th this year and it turns out I'm free so...
 
-I've done this ride a number of times over the years. Of the three big group rides on Oahu this one is my favorite. I've done the regular (Honolulu Century Ride)[https://www.hbl.org/honolulucenturyride/] held in the fall but frankly I don't care for the route. I've not done the (Zachary Manago's Ride in Paradise)[https://www.hbl.org/events/zachs-ride/] so I can't comment or call it my favorite.
+I've done this ride a number of times over the years. Of the three big group rides on Oahu this one is my favorite. I've done the regular [Honolulu Century Ride](https://www.hbl.org/honolulucenturyride/) held in the fall but frankly I don't care for the route. I've not done the [Zachary Manago's Ride in Paradise](https://www.hbl.org/events/zachs-ride/) so I can't comment or call it my favorite.
 
 As I recall the first time I did this ride I camped at Malaekahana and turned the ride into a 100 mile century ride rather than a 100 kilometer century ride. Good fun. The next time I did it with my friend Keith. Last year I did it by myself using the provided bus to get there - and that's the plan for this year.
 
