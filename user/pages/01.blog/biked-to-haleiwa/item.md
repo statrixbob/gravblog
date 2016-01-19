@@ -8,7 +8,7 @@ process:
 routable: true
 cache_enable: true
 visible: true
-header_image: '1'
+header_image: '2'
 summary:
     enabled: '1'
     format: short
@@ -26,6 +26,8 @@ taxonomy:
 ===
 
 Yes! Okay, I can't say I had a journey like I'd call "There and Back Again." No rings, no dragons, no trolls. But it was a fabulous ride.
+
+![Chinaman's Hat and Clear Skies](chinamans_hat.jpg)
 
 The weather was perfect when I left the house just after 5:00 am this morning. I'd chosen to ride my Quickbeam, thinking a singlespeed would be just the thing. It was.
 
