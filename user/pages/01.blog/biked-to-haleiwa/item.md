@@ -1,6 +1,7 @@
 ---
 title: 'Biked to Haleiwa'
 published: true
+date: '18-01-2016 15:36'
 process:
     markdown: true
     twig: false
