@@ -26,7 +26,7 @@ taxonomy:
 **Across the midwest by bicycle!**
 
 ===
-![RAGBRAI Banner - from ragbrai.com](http://ragbrai.com/wp-content/themes/ragbrai/images/post_topper_1.jpg)
+[![RAGBRAI Banner - from ragbrai.com](http://ragbrai.com/wp-content/themes/ragbrai/images/post_topper_1.jpg)](https://ragbrai.com)
 
 On Saturday night the RAGBRAI route planners announced the 2016 RAGBRAI XLIV overnight towns. It's, as many suspected, a southern route. Normally this would mean a lot of hills, but apparently this isn't going to be the case. Yes there'll be hills, but the ride is about average (for RAGBRAIS) as far as climbing goes. That still means you'll hear a lot of lying. To wit, "only one more hill before..."
 
