@@ -1,10 +1,9 @@
 absolute_urls: false
 timezone: Pacific/Honolulu
-default_locale: null
 param_sep: ':'
 wrapped_site: false
+reverse_proxy_setup: false
 languages:
-  supported: {  }
   include_default_lang: true
   translations: true
   translations_fallback: true
@@ -13,6 +12,7 @@ languages:
   override_locale: false
 home:
   alias: /blog
+  hide_in_urls: false
 pages:
   theme: mytheme
   order:
@@ -21,12 +21,13 @@ pages:
   list:
     count: 20
   dateformat:
-    default: null
     short: 'jS M Y'
     long: 'F jS \a\t g:ia'
   publish_dates: true
   process:
     markdown: true
+    twig: false
+  twig_first: true
   events:
     page: true
     twig: true
@@ -46,7 +47,6 @@ pages:
     - json
     - rss
     - atom
-  append_url_extension: ''
   expires: 604800
   last_modified: false
   etag: false
@@ -103,9 +103,9 @@ images:
 media:
   enable_media_timestamp: false
   upload_limit: 0
-  unsupported_inline_types: {  }
-  allowed_fallback_types: {  }
 session:
   enabled: true
   timeout: 1800
   name: grav-site
+  secure: false
+  httponly: true

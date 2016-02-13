@@ -43,6 +43,7 @@
 
     {% if page.header.continue_link is sameas(false) %}
         {{ page.content }}
+        {{ jscomments('disqus', { shortname: 'Statrix' }) }}
         {% if not truncate %}
         {% set show_prev_next = true %}
         {% endif %}

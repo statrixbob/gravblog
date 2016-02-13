@@ -43,6 +43,7 @@
 
     {% if page.header.continue_link is sameas(false) %}
         {{ page.content }}
+        {{ jscomments('disqus', { shortname: 'statrix' }) }}
         {% if not truncate %}
         {% set show_prev_next = true %}
         {% endif %}
@@ -54,10 +55,12 @@
             {{ page.content|truncate(550) }}
         {% else %}
             {{ page.content }}
+            {{ jscomments('disqus', { shortname: 'statrix' }) }}
         {% endif %}
         <p><a href="{{ page.url }}">Continue Reading...</a></p>
     {% else %}
         {{ page.content }}
+        {{ jscomments('disqus', { shortname: 'statrix' }) }}
         {% set show_prev_next = true %}
     {% endif %}
 
