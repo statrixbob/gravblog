@@ -55,12 +55,11 @@ The ride was a little slower than I might have managed on another day as I was p
 
 Overall the ride was great. I did think about stopping for coffee, but just kept at it and, before noon I was home. Sweet!
 
-<iframe id="mapmyfitness_route" src="//snippets.mapmycdn.com/routes/view/embedded/987408275?width=600&height=400&elevation=true&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=1&unit_type=imperial&map_mode=TERRAIN&last_updated=2016-02-16T11:02:55-10:00&show_marker_every=5" height="530px" width="100%" frameborder="0"></iframe><div style="text-align: center; padding-right: 20px;">
+<iframe id="mapmyfitness_route" src="//snippets.mapmycdn.com/routes/view/embedded/987408275?width=600&height=400&elevation=true&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=1&unit_type=imperial&map_mode=ROADMAP&last_updated=2016-02-16T11:02:55-10:00&show_marker_every=5" height="530px" width="100%" frameborder="0"></iframe><div style="text-align: right; padding-right: 20px;">
                     <a target="_blank" href="http://www.mapmyride.com/routes/create/">Create Routes</a>
                     or <a href="http://www.mapmyride.com/routes/">Search for a route</a>
                     from millions at <a href="http://www.mapmyride.com">MapMyRide</a>
                 </div>
-
 
 
 
