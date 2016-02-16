@@ -55,11 +55,7 @@ The ride was a little slower than I might have managed on another day as I was p
 
 Overall the ride was great. I did think about stopping for coffee, but just kept at it and, before noon I was home. Sweet!
 
-<iframe id="mapmyfitness_route" src="//snippets.mapmycdn.com/routes/view/embedded/987408275?width=600&height=400&elevation=true&info=true&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2016-02-16T11:02:55-10:00&show_marker_every=5" height="570px" width="100%" frameborder="0"></iframe><div style="text-align: right; padding-right: 20px;">
-                    <a target="_blank" href="http://www.mapmyride.com/routes/create/">Create Routes</a>
-                    or <a href="http://www.mapmyride.com/routes/">Search for a route</a>
-                    from millions at <a href="http://www.mapmyride.com">MapMyRide</a>
-                </div>
+<iframe id="mapmyfitness_route" src="//snippets.mapmycdn.com/routes/view/embedded/987408275?width=600&height=400&elevation=true&info=true&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2016-02-16T11:02:55-10:00&show_marker_every=5" height="570px" width="100%" frameborder="0"></iframe>
 
 Now about that, 'lucky I did' bit. Once again I seem to have worn out my bottom just a bit. I think it may be the saddle I'm using so I'm going to see about riding 50 miles in a couple of weeks on a somewhat more forgiven saddle. This doesn't bode well for Iowa and Wisconsin, and frankly when my bottom was bigger I never had this trouble. Now, without so much padding, hmmm...
 
