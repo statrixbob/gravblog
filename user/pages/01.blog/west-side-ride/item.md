@@ -62,6 +62,8 @@ Overall the ride was great. I did think about stopping for coffee, but just kept
                 </div>
 
 
+
+
 Now about that, 'lucky I did' bit. Once again I seem to have worn out my bottom just a bit. I think it may be the saddle I'm using so I'm going to see about riding 50 miles in a couple of weeks on a somewhat more forgiven saddle. This doesn't bode well for Iowa and Wisconsin, and frankly when my bottom was bigger I never had this trouble. Now, without so much padding, hmmm...
 
 Well there you go.
